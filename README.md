@@ -29,7 +29,7 @@ I used [OpenWeatherMap API](https://openweathermap.org/) to get and display the 
 ### Built With
 
 
-- React
+- ReactJS
 - OpenWeatherMap API
 - CSS
 
