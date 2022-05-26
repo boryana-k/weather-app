@@ -30,6 +30,7 @@ I used [OpenWeatherMap API](https://openweathermap.org/) to get and display the 
 
 
 - ReactJS
+- Axios
 - OpenWeatherMap API
 - CSS
 
